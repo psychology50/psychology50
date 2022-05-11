@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @psychology50
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Yang Jae Seo 🤪
+ 
+<div align="center">
+  
+git 공사중..
+  
+<hr>  
+  
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0pao0)
+<img src="http://mazandi.herokuapp.com/api?handle=0pao0&theme=warm"/>
 
-<!---
-psychology50/psychology50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>  
+<div align="center">
+  
+![psychology50's GitHub stats](https://github-readme-stats.vercel.app/api?username=psychology50&show_icons=true&theme=great-gatsby)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psychology50&layout=compact)](https://github.com/psychology50/github-readme-stats)
+
+</div>
+
+* * *
+ 
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
+<p align="center">
+<img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> &nbsp </p>
