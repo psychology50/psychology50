@@ -40,3 +40,5 @@ git 공사중..
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> &nbsp</br>
 <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white"/></p>
+
+![snake gif](https://github.com/psychology50/psychology50/blob/output/github-contribution-grid-snake.svg)
