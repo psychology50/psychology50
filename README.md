@@ -11,15 +11,6 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0pao0)
 <img src="http://mazandi.herokuapp.com/api?handle=0pao0&theme=warm"/>
 
-</div>  
-<div align="center">
-  
-![psychology50's GitHub stats](https://github-readme-stats.vercel.app/api?username=psychology50&show_icons=true&theme=great-gatsby)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psychology50&layout=compact)](https://github.com/psychology50/github-readme-stats)
-
-</div>
-
 * * *
  
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
