@@ -1,7 +1,16 @@
 ## Yang Jae Seo 🤪
  
-> What does not kill me, makes me stronger
-<br/>  
+> What does not kill me, makes me stronger 
+
+### Activity
+- Korea IT Academy Daegu 조교 (21.11.15 ~ 22.01.28)
+- 42Seoul La Piscine (22.01.31 ~ 22.02.25)
+- LIKELION 11th 아기사자 (22.03.21 ~ 22.12.22)
+- LIKELION 12th 학교대표 (23.03.20 ~ )
+- 이 외, 각종 코딩테스트 대회 및 공모전 참여
+
+* * *
+
 <div align="center">
   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0pao0)
