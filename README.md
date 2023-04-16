@@ -57,7 +57,8 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
    </td>
   </tr>
   <tr>
@@ -77,6 +78,7 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
    </td>
   </tr>
   <tr>
