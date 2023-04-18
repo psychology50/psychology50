@@ -86,7 +86,6 @@
    <td>
     <a href="https://github.com/psychology50/Fit-a-Pet-Android"><b>🐶 반려동물 케어 서비스, Fit a Pet</b></a><br/>
     <a href="https://github.com/psychology50/trip-tip"><b>🧮 모임 정산 서비스, Trip Tip</b></a><br/>
-    <a href="https://github.com/psychology50/gym-bro-api"><b>💪 헬스 메이트 매칭 서비스, Gym Bro</b></a>
    </td>
   </tr>
  <tbody>
