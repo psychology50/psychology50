@@ -1,6 +1,8 @@
 ## Yang Jae Seo 🤪
  
 > What does not kill me, makes me stronger 
+  
+I'm double majoring in Chemical engineering and Computer engineering
 
 ### Activity
 - Korea IT Academy Daegu 조교 (21.11.15 ~ 22.01.28)
