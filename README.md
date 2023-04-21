@@ -76,6 +76,7 @@ I'm double majoring in Chemical engineering and Computer engineering
    <th><b>👨‍💻 Study</b></th>
    <td>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=flat-square&logo=Travis CI&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> &nbsp
