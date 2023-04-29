@@ -2,7 +2,8 @@
  
 > What does not kill me, makes me stronger 
   
-I'm double majoring in Chemical engineering and Computer engineering
+I'm double majoring in Chemical engineering and Computer engineering <br/>
+Looking for someone to be strong with me.
 
 ### Activity
 - Korea IT Academy Daegu 조교 (21.11.15 ~ 22.01.28)
