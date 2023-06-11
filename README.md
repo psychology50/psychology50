@@ -3,6 +3,7 @@
 > What does not kill me, makes me stronger 
   
 I'm double majoring in Chemical engineering and Computer engineering <br/>
+I'm interested in Backend, DevOps Develop. <br/>
 Looking for someone to be strong with me.
 
 ### Activity
