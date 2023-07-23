@@ -14,13 +14,14 @@ on:
     - master
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - uses: Platane/snk@v3
+        id : snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           
@@ -36,9 +37,8 @@ jobs:
           # output branch에 gif, svg를 각각 생성
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - run: git status
           
       # 변경사항 push
       - name: Push changes
