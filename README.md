@@ -88,7 +88,7 @@ Looking for someone to be strong with me.
   <tr>
    <th><b>My Project</b></th>
    <td>
-    <a href="https://github.com/psychology50/fit-a-pet-server"><b>🐶 반려동물 케어 서비스, Fit a Pet</b></a><br/>
+    <a href="https://github.com/KCY-Fit-a-Pet/fit-a-pet-server"><b>🐶 반려동물 케어 서비스, Fit a Pet</b></a><br/>
     <a href="https://github.com/psychology50/trip-tip"><b>🧮 모임 정산 서비스, Trip Tip</b></a><br/>
     <a href="https://github.com/psychology50/kakao-chat-ci"><b>💬 카카오 챗 CI</b></a><br/>
    </td>
