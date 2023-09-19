@@ -34,7 +34,6 @@ Looking for someone to be strong with me.
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp 
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/></br>
    </td>
   <tr/>
   <tr>
@@ -62,15 +61,17 @@ Looking for someone to be strong with me.
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> &nbsp
    </td>
   </tr>
   <tr>
    <th><b>Hobby</b></th>
    <td>
-    <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/></br>
    </td>
   </tr>
   <tr>
@@ -82,7 +83,6 @@ Looking for someone to be strong with me.
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
    </td>
   </tr>
   <tr>
