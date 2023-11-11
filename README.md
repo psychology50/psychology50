@@ -44,6 +44,7 @@ Looking for someone to be strong with me.
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp 
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Github Actions-2888ff?style=flat-square&logo=Github Actions&logoColor=white"/>&nbsp
    </td>
   </tr>
   <tr>
@@ -96,6 +97,9 @@ Looking for someone to be strong with me.
   </tr>
  <tbody>
 </table>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github Actions-2888ff?style=flat-square&logo=Github Actions&logoColor=white"/> 
 
 
 <picture>
