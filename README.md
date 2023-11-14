@@ -98,10 +98,6 @@ Looking for someone to be strong with me.
  <tbody>
 </table>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github Actions-2888ff?style=flat-square&logo=Github Actions&logoColor=white"/> 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/psychology50/psychology50/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/psychology50/psychology50/blob/output/github-contribution-grid-snake.svg" />
