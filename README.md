@@ -45,6 +45,7 @@ Looking for someone to be strong with me.
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Github Actions-2888ff?style=flat-square&logo=Github Actions&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Naver Cloud Platform-03c75a?style=flat-square&logo=Naver&logoColor=white"/>&nbsp
    </td>
   </tr>
   <tr>
@@ -63,7 +64,6 @@ Looking for someone to be strong with me.
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> &nbsp
    </td>
   </tr>
   <tr>
