@@ -13,7 +13,6 @@ Looking for someone to be strong with me.
 - LIKELION 11th 학교대표 (23.03.20 ~ )
 - Comento AWS Cloud 수료 (23.07.08 ~ 23.08.05)
 - YU 공공데이터 창업 경진대회 총장상 수여 (23.10.06)
-- 이 외, 각종 코딩테스트 대회 및 공모전 참여
 
 * * *
 
