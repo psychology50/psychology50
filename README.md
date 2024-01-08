@@ -10,9 +10,10 @@ Looking for someone to be strong with me.
 - Korea IT Academy Daegu 조교 (21.11.15 ~ 22.01.28)
 - [42Seoul La Piscine](https://jaeseo0519.tistory.com/93) (22.01.31 ~ 22.02.25)
 - [LIKELION 10th 아기사자](https://jaeseo0519.tistory.com/130) (22.03.21 ~ 22.12.22)
-- [LIKELION 11th 학교대표](https://jaeseo0519.tistory.com/330) (23.03.20 ~ )
+- [LIKELION 11th 학교대표](https://jaeseo0519.tistory.com/330) (23.03.20 ~ 23.12.23)
 - Comento AWS Cloud 수료 (23.07.08 ~ 23.08.05)
 - YU 공공데이터 창업 경진대회 총장상 수여 (23.10.06)
+- YU 오픈소스 경진대회 알고리즘 부문 우수상 (23.12.08)
 
 * * *
 
