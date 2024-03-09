@@ -76,6 +76,7 @@ Looking for someone to be strong with me.
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Github Actions-2888ff?style=flat-square&logo=Github Actions&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/>&nbsp
    </td>
   </tr>
   <tr>
