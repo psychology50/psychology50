@@ -12,12 +12,9 @@ Looking for someone to be strong with me.
 - [LIKELION 10th 아기사자](https://jaeseo0519.tistory.com/130) (22.03.21 ~ 22.12.22)
 - [LIKELION 11th 학교대표](https://jaeseo0519.tistory.com/330) (23.03.20 ~ 23.12.23)
 
-* * *
-
 <div align="center">
   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0pao0)
-<img src="http://mazandi.herokuapp.com/api?handle=0pao0&theme=warm"/>
  
 * * *
  
