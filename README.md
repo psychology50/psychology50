@@ -1,4 +1,6 @@
 ## Yang Jae Seo 🤪
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpsychology50&count_bg=%23FFA348&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 > What does not kill me, makes me stronger 
   
@@ -13,8 +15,6 @@ Looking for someone to be strong with me.
 - [LIKELION 11th 학교대표](https://jaeseo0519.tistory.com/330) (23.03.20 ~ 23.12.23)
 
 <div align="center">
-  
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0pao0)
  
 * * *
  
@@ -98,6 +98,11 @@ Looking for someone to be strong with me.
   </tr>
  <tbody>
 </table>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=psychology50&theme=dark)](https://git.io/streak-stats)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0pao0)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/psychology50/psychology50/blob/output/github-contribution-grid-snake-dark.svg" />
