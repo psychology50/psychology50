@@ -101,7 +101,6 @@ Looking for someone to be strong with me.
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=psychology50&theme=dark)](https://git.io/streak-stats)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0pao0)
 
 <picture>
