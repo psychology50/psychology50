@@ -8,6 +8,12 @@ I'm double majoring in Chemical engineering and Computer engineering <br/>
 I'm interested in Backend, DevOps Develop. <br/>
 Looking for someone to be strong with me.
 
+<br/>
+
+![Tistory](https://github-tistory-badge.vercel.app/api/badge?name=jaeseo0519&theme=dark)
+
+<br/>
+
 ### Activity
 - Korea IT Academy Daegu 조교 (21.11.15 ~ 22.01.28)
 - [42Seoul La Piscine](https://jaeseo0519.tistory.com/93) (22.01.31 ~ 22.02.25)
