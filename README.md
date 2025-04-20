@@ -39,7 +39,7 @@ Looking for someone to be strong with me.
   <tr>
    <th><b>BE</b></th>
    <td> 
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>&nbsp
    </td>
