@@ -40,7 +40,7 @@ Looking for someone to be strong with me.
    <th><b>BE</b></th>
    <td> 
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>&nbsp 
-    <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>&nbsp
    </td>
   </tr>
@@ -63,8 +63,8 @@ Looking for someone to be strong with me.
    <td>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Naver Cloud Platform-03c75a?style=flat-square&logo=Naver&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Github Actions-2888ff?style=flat-square&logo=Github Actions&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Github Actions-2888ff?style=flat-square&logo=GithubActions&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/>&nbsp
    </td>
