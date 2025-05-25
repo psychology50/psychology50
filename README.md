@@ -48,7 +48,7 @@ Looking for someone to be strong with me.
    <th><b>Community</b></th>
    <td>
     <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/LIKELION-FFA348?style=flat-square&logo=LIKELION&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🦁LIKELION-FFA348?style=flat-square&logo=LIKELION&logoColor=white"/>
    </td>
   </tr>
   <tr>
