@@ -1,10 +1,10 @@
-## Yang Jae Seo 🤪
+## Yang JaeSeo 🤪
 
-> What does not kill me, makes me stronger 
-  
-I'm double majoring in Chemical engineering and Computer engineering <br/>
-I'm interested in Backend, DevOps Develop. <br/>
-Looking for someone to be strong with me.
+> What does not kill me, makes me stronger
+
+I work as a full-stack developer at [NTS](https://www.nts-corp.com/).  
+If you’d like any advice, please let me know how I can assist you.  
+And I'm always eager to connect with others who share the same passion.  
 
 <br/>
 
