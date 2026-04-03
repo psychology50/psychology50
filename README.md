@@ -17,6 +17,8 @@ And I'm always eager to connect with others who share the same passion.
 - [42Seoul La Piscine](https://jaeseo0519.tistory.com/93) (22.01.31 ~ 22.02.25)
 - [LIKELION 10th 아기사자](https://jaeseo0519.tistory.com/130) (22.03.21 ~ 22.12.22)
 - [LIKELION 11th 학교대표](https://jaeseo0519.tistory.com/330) (23.03.20 ~ 23.12.23)
+- N Tech Service (25.06.23 ~)
+- depromeet 18th server (26.03.05 ~)
 
 <div align="center">
  
